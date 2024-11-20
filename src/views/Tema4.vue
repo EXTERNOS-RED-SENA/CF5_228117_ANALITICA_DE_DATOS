@@ -143,10 +143,10 @@
 </template>
 
 <script>
-import AcordionA from '../bootstrap/AcordionA'
+import SlyderA from '../bootstrap/SlyderA'
 export default {
   name: 'Tema4',
-  components: { AcordionA },
+  components: { SlyderA },
   data: () => ({
     // variables de vue
   }),
