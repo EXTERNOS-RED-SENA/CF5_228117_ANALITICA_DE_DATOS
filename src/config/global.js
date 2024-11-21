@@ -3,8 +3,8 @@ export default {
     componenteFormativo:
       'Limpieza y transformación de datos: técnicas y herramientas informáticas',
     descripcionCurso:
-      'Este componente presenta una exploración de los procesos de limpieza y transformación de datos, abarcando desde sus fundamentos hasta las técnicas y herramientas más recientes. Examina los diferentes tipos de datos, métodos de importación, técnicas de transformación y las principales herramientas disponibles, incluyendo soluciones comerciales y de código abierto. Orientado tanto a analistas como a personas de nivel técnico, proporciona una guía práctica y sistemática para introducirse a la preparación efectiva de datos en proyectos de análisis.',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
+      'Este componente presenta una exploración de los procesos de limpieza y transformación de datos, abarcando desde sus fundamentos hasta las técnicas y herramientas más recientes.',
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principalv2.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {
