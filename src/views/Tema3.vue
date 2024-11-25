@@ -104,7 +104,7 @@
 
         .row.justify-content-center.mb-5       
           .col-lg-8.my-lg-0.my-3
-            p La clasificación y ordenamiento de datos impacta directamente en la calidad y utilidad del análisis posterior. Estas operaciones van más allá del ordenamiento alfabético o numérico, abarcando técnicas sofisticadas que consideran múltiples criterios y relaciones complejas entre dato
+            p La clasificación y ordenamiento de datos impacta directamente en la calidad y utilidad del análisis posterior. Estas operaciones van más allá del ordenamiento alfabético o numérico, abarcando técnicas sofisticadas que consideran múltiples criterios y relaciones complejas entre datos
             p El proceso de clasificación implica la organización sistemática de datos en categorías significativas. Este proceso requiere una comprensión profunda del dominio del problema y de las relaciones inherentes entre los datos. La clasificación puede basarse en criterios simples o en combinaciones complejas de múltiples atributos. Los métodos de clasificación pueden variar según la naturaleza de los datos:
           .col-lg-4.my-lg-0.my-3
             img.img-a.img-t(src='@/assets/curso/temas/32.png' alt='')  

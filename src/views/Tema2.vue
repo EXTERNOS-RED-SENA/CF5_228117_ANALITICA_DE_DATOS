@@ -22,7 +22,7 @@
         Separador 
         #t_2_1.titulo-segundo.color-acento-contenido
           h2 2.1 Lectura de datos desde archivos externos
-
+    p La capacidad de leer datos desde diferentes tipos de archivos externos representa una habilidad fundamental en la práctica del análisis de datos. Los analistas se enfrentan constantemente al desafío de trabajar con múltiples formatos de archivo, cada uno con sus propias particularidades y requerimientos específicos.
     .row.justify-content-center.mb-4   
       .col-lg-8.my-lg-0.my-3
         .bgi.brad.p-3.mb-4.j1
